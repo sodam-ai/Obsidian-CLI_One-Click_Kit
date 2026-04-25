@@ -1,0 +1,15 @@
+# Distribution archives — attached to GitHub Releases instead of tracked in git
+*.7z
+*.zip
+*.tar.gz
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temp files
+*.tmp
+*.temp
+*.log
