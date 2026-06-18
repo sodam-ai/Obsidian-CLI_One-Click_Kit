@@ -1,0 +1,33 @@
+Obsidian-CLI One-Click Kit (Obsidian-CLI_One-Click_Kit)
+Copyright 2026 SoDam AI Studio
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+================================================================================
+Third-party software
+================================================================================
+
+(1) notesmd-cli  — installed by this kit, NOT bundled/redistributed
+--------------------------------------------------------------------------------
+This kit downloads, at install time, the following independent tool from its
+official GitHub Releases. The tool is fetched on the user's machine during
+installation; it is not included inside this kit.
+
+  notesmd-cli
+  - Copyright (c) 2023 Kartikay Jainwal (a.k.a. Yakitrak)
+  - License: MIT License (permits commercial use; retain copyright notice)
+  - Source : https://github.com/Yakitrak/notesmd-cli
+
+(2) Obsidian — a separate program, NOT included or distributed by this kit
+--------------------------------------------------------------------------------
+Obsidian is proprietary software by Dynalist Inc. Per its official license, it is
+free for personal, commercial, and non-profit use; a business "Commercial
+License" is optional support, not a requirement.
+  - Terms : https://obsidian.md/license
+
+--------------------------------------------------------------------------------
+The MIT License of notesmd-cli applies to that tool. This kit only provides
+installer / launcher / uninstaller wrappers and Korean/English guidance, which
+are licensed under Apache-2.0 as stated in LICENSE. "Obsidian" and "GitHub" are
+trademarks of their respective owners. This kit is unofficial and not affiliated
+with Obsidian, GitHub, or the notesmd-cli author.
